@@ -1,1 +1,196 @@
-# CV-deutsch-
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+
+<head>
+<meta charset="utf-8">
+<title>Abhishek's Site</title>
+
+</head>
+<style>
+
+</style>
+<link rel="stylesheet" href="C:\Users\Abhishek\Documents\web development\css\styles.css" />
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td>
+        <img src="https://scontent.fdel8-1.fna.fbcdn.net/v/t39.30808-6/278705174_523519949338691_5191563744244965808_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=6qOfFNH3OIwAX8tn9JQ&_nc_ht=scontent.fdel8-1.fna&oh=00_AT-E8TjvqNqgdztISLfLr4rrYFrKsozebUjWn0uhHVfAkg&oe=6260EC81"
+          alt="Abhishek Negi " height="300" >
+      </td>
+      <td>
+        <strong>
+        <h1>Persönliche Daten</h1>
+        <p>
+          <em>Name:Abhishek Negi</em>
+        </p>
+        <p>
+          die Anschrift:436/G, Mayur vihar phase 1 pocket 2 , East delhi , Delhi 91,110091, Delhi
+
+        </p>
+        <p>
+        Telefonnummer:+91 78276 52600
+        <br />
+        Staatsangehörigkeit: Indien
+        <br />
+        Geburtsdatum:27 August 2003
+        <br />
+        Geschlecht:männlich
+
+        </p>
+      </strong>
+
+      </td>
+
+
+    </tr>
+
+
+
+  </table>
+
+
+
+
+  <br>
+  <hr />
+  <table border="1">
+    <tr>
+      <td>
+        <strong>Jahr </strong>
+
+      </td>
+      <td>
+            <strong>Bildung</strong>
+      </td>
+      <td>
+        <strong>Institut</strong>
+      </td>
+      <td>
+        <strong>Ergebnis</strong>
+      </td>
+    </tr>
+
+
+
+    </tr>
+    <tr>
+      <td>
+        2018-2019
+      </td>
+      <td>
+        Class 10th CBSE BOARDS
+      </td>
+      <td>
+        St. Terese School
+      </td>
+      <td>
+        bestanden
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2019-2020
+      </td>
+      <td>
+        Class 11th
+      </td>
+      <td>
+        Salwan Public School
+      </td>
+      <td>
+        bestanden
+      </td>
+
+    </tr>
+    <tr>
+      <td>
+        2020-2021
+      </td>
+      <td>
+        Class 12th BOARDS
+      </td>
+      <td>
+        Salwan Public School
+      </td>
+      <td>
+        bestanden
+      </td>
+    </tr>
+  </table>
+ <br />
+
+  </table>
+      <h3>Bildungsabschlüsse<b>:-></b></h3>
+      <ul>
+        <li>
+
+
+          Klasse 12 von  <strong><a href="https://www.cbse.gov.in/">CBSE</a></strong>mit <strong>82 % bestanden</strong>
+        <li>
+          Klasse 11 von <strong><a href="https://www.cbse.gov.in/">CBSE</a></strong> mit  <strong>92.6% bestanden</strong>
+        </li>
+        <li>
+          Bestandene <strong>B1-Deutschprüfung</strong> des <strong><a href="https://www.goethe.de/en/index.html"> Goethe-Instituts </a></strong>
+        </li>
+
+
+
+    </li>
+
+
+    </ol>
+  </ul>
+  </ul>
+  <hr />
+  <h3><b>Fähigkeiten</b></h3>
+<table border="1">
+  <tr>
+  <td>
+    Python ⭐⭐⭐
+  </td>
+  <td>
+    Html ⭐⭐⭐
+  </td>
+  <td>
+    C ⭐
+  </td>
+  <tr>
+    <td>
+      German ⭐⭐⭐
+
+    </td>
+    <td>
+      English ⭐⭐⭐⭐
+    </td>
+    <td>
+      CSS ⭐⭐⭐
+    </td>
+
+  </tr>
+  </tr>
+</table>
+<h3>Meine Hobbies</h3>
+<ul>
+  <li>
+  Ich spiele gerne FPS-Spiele wie csgo und valorant
+  </li>
+  <li>
+    Ich gehe gerne jeden Tag ins Fitnessstudio
+  </li>
+  <li>
+    Ich lerne gerne neue Sprachen(Ich habe Deutsch selbst gelernt)
+  </li>
+  <li>
+    Ich lerne gerne neue Programmiersprachen (dieser Lebenslauf basiert auf HTML-Codierung, Link=)
+  </li>
+</ul>
+
+
+
+</body>
+
+</html>
+
+</html>
